@@ -4,7 +4,7 @@
 
 ### Introduction 
 
-For this peer-graded final course project, I have assumed the role of a software engineer who needs to develop an AI-based web application. Goal was to analyze the scenario and perform the following tasks:
+For this peer-graded final course project, I have assumed the role of a software engineer who needs to develop an AI-based web application. Objective was to analyze the scenario and perform the following tasks:
 
 + Task 1: Clone the project repository
 + Task 2: Create an emotion detection application using Watson NLP library
